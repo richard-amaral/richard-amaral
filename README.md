@@ -18,3 +18,12 @@ Bem-vindo ao meu perfil. Este espaço reúne meus projetos, estudos e experiment
 - **Linguagem:** JavaScript  
 - **Ferramenta:** Visual Studio Code  
 - **Framework:** Node.js
+
+---
+  
+📚 Atualmente estudando  
+- Introdução ao JavaScript
+- Estrutura e Aplicação com Node.js  
+- Banco de Dados SQL Server
+
+---
